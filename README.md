@@ -6,6 +6,7 @@ To create and execute SOAP-based web service program using server, client and cl
 
 ## Procedure:
 
+
 ### Server-side:
 #### Step 1:
 Open NetBeans IDE.
